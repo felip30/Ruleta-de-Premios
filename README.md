@@ -11,3 +11,4 @@ Este algoritmo fue creEste algoritmo fue creado en pseint **PSeINT** y tiene com
 - Se indica el final del proceso
 
 ## 📷 Captura de Pantalla
+<img src= "Ruleta de Premios Captura de Pantalla.JPG /">
