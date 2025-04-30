@@ -1,5 +1,5 @@
-#🎡 Ruleta-de-Premios
-Este algoritmo fue creEste algoritmo fue creado en pseint **PSeINT** y tiene como objetivo generar aleatoriamente un premio entre 5 premios
+# 🎡 Ruleta-de-Premios
+Este algoritmo fue creado en **PSeINT** y tiene como objetivo generar aleatoriamente un premio entre 5 premios
 
 ## 📌 ¿Como Funciona?
 - Se inicia el proceso
